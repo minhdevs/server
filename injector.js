@@ -1,1 +1,3 @@
-console.log("Hello injector")
+function log() {
+  console.log(123)
+}
